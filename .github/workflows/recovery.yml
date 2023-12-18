@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://download1584.mediafire.com/ej9b3zs5wurgRy5zmfqeCw0ErW45K0Zk6dO7vuk5g-cUyEf_IG4uEUA91VrSskfF8GdrWSkYKEbhFRRTYV2GpfCSqG7dk8UTXfEimmRzPmz-s0sSgarLnh4c_pn8c0lC9w4Uf9dYZ8QJ-KLHoogPautzQm1yZqaZkRUfRxXJXtdGrw/j4sk7z8j8nv0zle/recovery.img
 
 jobs:
   build:
